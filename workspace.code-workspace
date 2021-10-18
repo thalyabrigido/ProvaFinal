@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "eureka-server",
+			"path": "eureka-server"
+		},
+		{
+			"name": "zuul-server",
+			"path": "zuul-server"
+		},
+		{
+			"name": "config-server",
+			"path": "config-server"
+		},
+		{
+			"path": "config"
+		},
+		{
+			"path": "musica-ms"
+		}
+	],
+	"settings": {}
+}
